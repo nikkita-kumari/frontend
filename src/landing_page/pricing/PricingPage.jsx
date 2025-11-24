@@ -1,16 +1,15 @@
 import React from 'react';
-import Team from './Team';
 import Hero from './Hero';
+import Brokerage from './Brokerage';
 import Navbar from '../Navbar';
 import Footer from '../Footer';
-
-function AboutPage() {
+function PricingPage() {
   return ( <>
   <Navbar/>
   <Hero/>
-  <Team/>
+  <Brokerage/>
   <Footer/>
   </> );
 }
 
-export default AboutPage;
+export default PricingPage;
