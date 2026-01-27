@@ -13,43 +13,43 @@ function Footer() {
           </div>
           <div className="col">
             <p>Company</p>
-            <a href="#">About</a>
+            <a href="https://leetcode.com/problems/">About</a>
             <br />
-            <a href="#">Products</a>
+            <a href="https://leetcode.com/problems/">Products</a>
             <br />
-            <a href="#">Pricing</a>
+            <a href="https://leetcode.com/problems/">Pricing</a>
             <br />
-            <a href="#">Referral programme</a>
+            <a href="https://leetcode.com/problems/">Referral programme</a>
             <br />
-            <a href="#">Careers</a>
+            <a href="https://leetcode.com/problems/">Careers</a>
             <br />
-            <a href="#">Zerodha.tech</a>
+            <a href="https://leetcode.com/problems/">Zerodha.tech</a>
             <br />
-            <a href="#">Press & media</a>
+            <a href="https://leetcode.com/problems/">Press & media</a>
             <br />
-            <a href="#">Zerodha cares (CSR)</a>
+            <a href="https://leetcode.com/problems/">Zerodha cares (CSR)</a>
             <br />
           </div>
           <div className="col">
             <p>Support</p>
-            <a href="#">Contact</a>
+            <a href="https://leetcode.com/problems/">Contact</a>
             <br />
-            <a href="#">Support portal</a>
+            <a href="https://leetcode.com/problems/">Support portal</a>
             <br />
-            <a href="#">Z-Connect blog</a>
+            <a href="https://leetcode.com/problems/">Z-Connect blog</a>
             <br />
-            <a href="#">List of charges</a>
+            <a href="https://leetcode.com/problems/">List of charges</a>
             <br />
-            <a href="#">Downloads & resources</a>
+            <a href="https://leetcode.com/problems/">Downloads & resources</a>
             <br />
           </div>
           <div className="col">
             <p>Account</p>
-            <a href="#">Open an account</a>
+            <a href="https://leetcode.com/problems/">Open an account</a>
             <br />
-            <a href="#">Fund transfer</a>
+            <a href="https://leetcode.com/problems/">Fund transfer</a>
             <br />
-            <a href="#">60 day challenge</a>
+            <a href="https://leetcode.com/problems/">60 day challenge</a>
             <br />
           </div>
         </div>

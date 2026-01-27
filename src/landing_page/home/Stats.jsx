@@ -21,8 +21,8 @@ function Stats() {
         <div className='col-6 p-5'>
           <img alt="" src='media/ecosystem.png' style={{width:"120%"}}/>
           <div className='text-center'>
-            <a href="#" className='mx-5' style={{textDecoration:"none"}}>Explore our products</a>
-            <a href="#"  style={{textDecoration:"none"}}>Try Kite demo </a>
+            <a href="https://leetcode.com/problems/" className='mx-5' style={{textDecoration:"none"}}>Explore our products</a>
+            <a href="https://leetcode.com/problems/"  style={{textDecoration:"none"}}>Try Kite demo </a>
           </div>
         </div>
       </div>
