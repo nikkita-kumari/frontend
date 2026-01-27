@@ -7,12 +7,12 @@ import Footer from '../Footer';
 import Navbar from '../Navbar';
 function ProductsPage() {
   return ( <>
-  <Navbar/>
+  
   <Hero/>
   <LeftSection/>
   <RightSection/>
   <Universe/>
-  <Footer/>
+  
   </> );
 }
 
