@@ -11,6 +11,7 @@ import SupportPage from './landing_page/support/SupportPage';
 import Navbar from './landing_page/Navbar';
 import Footer from './landing_page/Footer';
 import NotFound from './NotFound';
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 
 
